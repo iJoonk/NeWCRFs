@@ -1,6 +1,8 @@
 import torch
 import torch.backends.cudnn as cudnn
 
+import matplotlib.pyplot as plt
+
 import os, sys
 import argparse
 import numpy as np
